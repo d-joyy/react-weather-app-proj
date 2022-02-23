@@ -15,6 +15,8 @@ export default function App() {
           >
             open-sourced on GitHub
           </a>{" "}
+          and hosted on{" "}
+          <a href="https://naughty-raman-8a7d3c.netlify.app">Netlify.</a>
         </footer>
       </div>
     </div>
