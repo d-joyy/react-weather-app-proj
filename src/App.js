@@ -14,6 +14,7 @@ export default function App() {
             href="https://github.com/d-joyy/react-weather-app-proj"
             target="_blank"
             rel="noopener noreferrer"
+            class="open-source-code"
           >
             open-sourced on GitHub
           </a>{" "}
@@ -22,6 +23,7 @@ export default function App() {
             href="https://naughty-raman-8a7d3c.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
+            class="hosted"
           >
             Netlify.
           </a>

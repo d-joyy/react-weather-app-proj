@@ -1,9 +1,19 @@
 .App {
   max-width: 600px;
   margin: 30px auto;
+  padding: 20px;
+  border: 4px solid rgb(26, 178, 168);
+  border-radius: 20px;
+  background-color: rgb(112, 244, 240);
 }
 
 .App footer {
-  font-size: 11px;
-  margin: 10px 0;
+  font-size: 12px;
+  margin: 30px;
+  position: absolute;
+}
+
+body {
+  font-family: arial, sans-serif;
+  background: rgb(0, 122, 147);
 }
